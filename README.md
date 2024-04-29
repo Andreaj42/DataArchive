@@ -2,7 +2,7 @@
 Datasets used in research and analysis
 
 
-## Questions dataset
+## Questions.csv
 Questions come from [OpenTriviaQA](https://github.com/uberspot/OpenTriviaQA)
 
 | structure | topic | question | correct_answer | A |B | C | D |
