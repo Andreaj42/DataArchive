@@ -4,7 +4,7 @@ Datasets used in research and analysis
 ## Datasets
 
 ### Questions
-The questions come from [OpenTriviaQA](https://github.com/uberspot/OpenTriviaQA)
+Questions come from [OpenTriviaQA](https://github.com/uberspot/OpenTriviaQA)
 
 |    | topic | question | correct_answer | A |B | C | D |
 | :---: | :---------------: |:---------------:| :-----:|:-----:| :-----:| :-----:| :-----:|
